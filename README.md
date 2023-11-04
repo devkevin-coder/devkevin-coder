@@ -1,5 +1,5 @@
 - Kevin Tsibin
-- High School Student
+- Game Hacher
 - Python and Kali Linux User
 - NEED COLLABORATIONS
 - Penetration Tester
