@@ -1,5 +1,5 @@
 - Kevin Tsibin
-- Game Hacher
+- Game Hacker
 - Python and Kali Linux User
 - NEED COLLABORATIONS
 - Penetration Tester
