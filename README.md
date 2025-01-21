@@ -1,9 +1,6 @@
 - Kevin Tsibin
-- Game Hacker
-- Python and Kali Linux User
-- NEED COLLABORATIONS
-- Penetration Tester
-- White Hat Hacker
+-19
+CryptoWallet App In The Works 
 
 <!---
 devkevin-coder/devkevin-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
